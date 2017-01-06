@@ -1,0 +1,47 @@
+/**{
+  border: 2px solid red;
+}*/
+* {
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  color: #0b0080;
+}
+
+.row h1 {
+  font-family: sans-serif;
+}
+
+.row  a {
+  color: blue;
+}
+
+#wiki h1{
+  font-size: 24px;
+}
+
+#wiki {
+
+  text-align: center;
+}
+
+.panel-body {
+  background-color: #f5fffa;
+}
+
+.panel-heading {
+  background: #cef2e0;
+}
+
+img {
+  float: left;
+}
+
+.nav-tabs {
+  background-color: #f6f6f6;
+}
+
+#side-bar img {
+  width: 110px;
+}
